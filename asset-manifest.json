@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/instagram/static/css/main.445113ca.css",
+    "main.js": "/instagram/static/js/main.ecf05990.js",
+    "index.html": "/instagram/index.html",
+    "main.445113ca.css.map": "/instagram/static/css/main.445113ca.css.map",
+    "main.ecf05990.js.map": "/instagram/static/js/main.ecf05990.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.445113ca.css",
+    "static/js/main.ecf05990.js"
+  ]
+}
