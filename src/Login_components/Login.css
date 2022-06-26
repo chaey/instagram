@@ -1,0 +1,59 @@
+.login_img{
+    margin-left: 70px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.login_container{
+    position: absolute;
+    left: 20%;
+    margin: 10px;
+
+}
+.login_input{
+    width: 258px;
+    height: 35px;
+    font-size: 12px;
+    background-color: #FAFAFA;
+    border: 1px solid #e7e4e4;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+.login_button{
+    width: 264px;
+    height: 30px;
+    border: 0;
+    border: none;
+    background-color: #3ad1b8;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-left: 43px ;
+}
+.login_section{
+    position: absolute;
+    left: 500px;
+}
+.smart_img{
+    position: absolute;
+    right: 100%;
+    margin-top: 40px;
+
+    
+}
+.border{
+    width: 350px;
+    height: 390px;
+    border: 1.2px solid #aaa;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+.email{
+    text-align: center;
+}
+.pwd{
+    text-align: center;
+}
+.nickname{
+    text-align: center;
+}
+
+/**/

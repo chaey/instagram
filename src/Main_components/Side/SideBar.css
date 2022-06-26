@@ -1,0 +1,11 @@
+.Side {
+    float: right;
+    height: 600px;
+    width: 350px;
+    margin: 2% 20% 0px 0px;
+    background-color: wheat;
+    border: 2px solid black;
+
+}
+
+/* 위 오 아 왼 */

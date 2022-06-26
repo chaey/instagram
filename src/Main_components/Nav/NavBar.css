@@ -1,0 +1,18 @@
+.navbar-container{   
+  border-bottom: 1px solid rgb(220,220,220);
+}
+nav{
+  background-color: white;
+}
+.navbar{
+  width: 960px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo-section{
+  font-family: 'Lobster', cursive;
+  font-size: 25px;
+}

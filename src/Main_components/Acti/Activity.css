@@ -1,0 +1,21 @@
+
+.Activity{
+    float: right;
+    margin: 2% 1% 0px 0px;
+    height: 120px;
+    width: 30%;   
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-around;
+  
+}
+.one{
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+    margin: auto;
+    border: 2px solid black;
+    empty-cells: show;
+    
+}
+/* 위 오 아 왼 */
